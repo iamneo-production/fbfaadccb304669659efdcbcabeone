@@ -17,7 +17,7 @@ let conditions = [
 // Function to handle player moves
 const ticTacToe = (element, index) => {
     // Your game logic here
-
+    
     /*
     **Part 1: Winning Conditions (Add your code here)**
 
