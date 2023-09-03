@@ -55,5 +55,27 @@ body {
   background-color: rgba(255, 255, 255,0.8);
   border: 2px solid #000;
   max-width: 200px;
-  margin: ;
+  margin: 20px auto;
+  text-align: center;
 }
+
+.result{
+  color:#fff;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  font-size: 25px;
+}
+
+.result-selection{
+  text-align: center;
+}
+
+reset-btn{
+  border: 2px solid #000;
+  color: #000;
+  background-color: #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
